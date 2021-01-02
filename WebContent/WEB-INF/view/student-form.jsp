@@ -14,7 +14,7 @@
 	<form:form action ="processForm" modelAttribute="student">
 		First Name: <form:input path="firstName" />
 		<br><br>
-		Last Name: <form:input path="lastName" />
+		Last Name:<form:input path="lastName" />
 		<br><br>
 		
 		Country: 
